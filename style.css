@@ -1,0 +1,88 @@
+
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #eaeef0;
+  line-height: 23px;
+  background-repeat: repeat-x;
+  background-size: 100% 100%;
+
+background-image: url(https://i.pinimg.com/736x/c2/41/b9/c241b96ff8eb796f68b815e5a5840f4c.jpg)
+
+}
+.col-md-4 {
+  margin: 0 0 30px;
+}
+
+.nav{
+    background-color: yellow;
+padding: 15px 10px;
+margin: 50px;
+margin-right: 110px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+ .header{
+ 
+  color: yellow;
+line-break: 10px;
+display: flex;
+justify-content: center ;
+}
+.half-width{
+color: black;
+}
+
+.purple-color{
+  color: #8845f4;
+}
+
+.half-pint{
+width: 90%;
+  ;
+}
+.side-img{
+  width:20%;
+  padding: 2%;
+}
+img{
+height: .5%;
+width: 12%;
+}
+.primary-btn{
+  color: #8845f4;
+  background-color: yellow;
+  padding: 13px 2px 7px 2px;
+  text-decoration: none;
+}
+h1{
+  font-size: 2.5em;
+}
+.container{
+  padding-left: 5%;
+  display: inline-block;
+  
+}
+.experiences {
+  padding:30px;
+  margin: 30px;
+  background-color: gold;
+  border-raduis: 20px;
+}
+.experience-item{
+  padding: 10px;
+  border-left: 1px solid red;
+}
+footer{
+color: black;
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-4 {
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+footer ul {
+  list-style: none;
+}
