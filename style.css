@@ -53,6 +53,10 @@ img {
 h1 {
   font-size: 2.5em;
 }
+.dreambottomhalf {
+  color: black;
+}
+
 .container {
   padding-left: 5%;
   display: inline-block;
@@ -78,7 +82,9 @@ footer .col-sm-4 {
   display: flex;
   justify-content: center;
 }
-
+a {
+  text-decoration: none;
+}
 footer ul {
   list-style: none;
 }
